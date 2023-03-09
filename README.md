@@ -14,7 +14,7 @@ Check out the code [here](https://github.com/Hopeah/Project0)!
 
 A full-stack app for all sorts of reading tracking and reading sharing!
 
-![alt tag](https://github.com/Hopeah/Project0/blob/main/public/images/BookStreet.gif)
+![alt tag](https://github.com/Hopeah/Portfolio/blob/main/images/bookstreet.gif)
 
 **Tech used:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -23,7 +23,7 @@ Check out the code [here](https://github.com/Hopeah/Tenzi)!
 
 Exciting game of tenzi with multiple difficulties to choose from. Dare to try to beat the impossible?
 
-![alt tag](https://github.com/Hopeah/Tenzi/blob/main/public/Gameoftenzi.gif)
+![alt tag](https://github.com/Hopeah/Portfolio/blob/main/images/gameoftenzi.gif)
 
 **Tech used:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -33,7 +33,7 @@ Check out the code [here](https://github.com/Hopeah/Business-Viz)!
 
 A single page application acting as a business card with a pleasant design and changing on hover links.
 
-![alt tag](https://github.com/Hopeah/Business-Viz/blob/main/public/Business-Viz.gif)
+![alt tag](https://github.com/Hopeah/Portfolio/blob/main/images/businessviz.gif)
 
 **Tech used:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -51,7 +51,7 @@ Check out the code [here](https://github.com/Hopeah/coffee-with-steff)!
 
 A mockup of a website for a small coffee shop.
 
-![alt tag](https://github.com/Hopeah/coffee-with-steff/blob/main/images/coffeewithsteff.gif)
+![alt tag](https://github.com/Hopeah/Portfolio/blob/main/images/coffeewithsteff.gif)
 
 **Tech used:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
